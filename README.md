@@ -68,28 +68,42 @@ BankAppJava/
 
 
 
-⚙️ How to Run
-Make sure you have Java JDK 11+ installed.
-# Compile
+## ⚙️ How to Run?
 
-javac Main.java
-
-# Run
-java Main
-========== BANKA UYGULAMASI ==========
-1 - Müşterileri Listele
-2 - Yeni Müşteri Oluştur
-3 - Yeni Hesap Aç
-4 - Hesapları Listele
-5 - Hesap Sil
-6 - Para Yatır / Çek / Transfer
-7 - Kredi Kartı Oluştur
-8 - Kredi Kartı Borcu Öde
-9 - Tüm Bilgileri Listele (TC ile)
-10 - 01.01.2000 sonrası açılan hesapları listele
-0 - Çıkış
+> Make sure you have **Java JDK 11 or later** installed on your system.
 
 ---
+
+### 🛠️ Compile the Project
+
+```bash
+javac Main.java
+```
+
+### ▶️ Run the Program
+
+```bash
+java Main
+```
+
+
+## 🧭 Main Menu Options
+
+```
+========== BANKA UYGULAMASI ==========
+ 1 - Müşterileri Listele
+ 2 - Yeni Müşteri Oluştur
+ 3 - Yeni Hesap Aç
+ 4 - Hesapları Listele
+ 5 - Hesap Sil
+ 6 - Para Yatır / Çek / Transfer
+ 7 - Kredi Kartı Oluştur
+ 8 - Kredi Kartı Borcu Öde
+ 9 - Tüm Bilgileri Listele (TC ile)
+10 - 01.01.2000 sonrası açılan hesapları listele
+ 0 - Çıkış
+```
+
 
 ## 🚧 Planned Improvements
 

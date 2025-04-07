@@ -54,15 +54,19 @@ BankAppJava allows users to:
 
 ## 📂 File Structure
 
+```
+BankAppJava/
+└── src/
+    ├── Kisi.java            # Tüm kişi sınıflarının temel sınıfı
+    ├── Musteri.java         # Banka müşterisi sınıfı
+    ├── BankaPersonel.java   # Banka çalışanları sınıfı
+    ├── BankaHesap.java      # Banka hesaplarının yönetildiği sınıf
+    ├── KrediKarti.java      # Kredi kartı işlemlerini yöneten sınıf
+    ├── Krediler.java        # Kredi hesaplama ve borç işlemleri sınıfı
+    └── Main.java            # Uygulamanın başlangıç noktası (menü ve kontrol)
+```
 
-src/
-├── Kisi.java
-├── Musteri.java
-├── BankaPersonel.java
-├── BankaHesap.java
-├── KrediKarti.java
-├── Krediler.java
-└── Main.java
+
 
 ⚙️ How to Run
 Make sure you have Java JDK 11+ installed.
